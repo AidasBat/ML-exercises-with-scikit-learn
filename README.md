@@ -1,4 +1,4 @@
-# ML-exercises-with-scikit-learn
+# ML-with-scikit-learn
 A collection of machine learning exercises completed during my ML course at the Technical University of Munich (TUM). This repository contains hands-on implementations of various machine learning concepts, covering regression, classification, clustering and more. Each exercise is structured as a Jupyter Notebook, complete with explanations, visualizations, and reproducible code.
 
 ## 📌 Topics Covered:  
@@ -16,7 +16,7 @@ A collection of machine learning exercises completed during my ML course at the 
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AidasBat/ML-exercises-with-scikit-learn.git
+   git clone https://github.com/AidasBat/ML-with-scikit-learn.git
    ```
 2. Install dependencies
    ```bash
